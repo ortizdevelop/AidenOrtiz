@@ -1,6 +1,6 @@
 ![Header](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/TOP2.jpg)
 
-## Hello, my friend 🤗. 
+### Hello, my friend 🤗. 
 
 ## My name is ORTIZ (Nikita) from Russia. I'm a beginner web-developer. Started doing web-development in 2021. But the main activity started in 2022.
 
