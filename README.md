@@ -31,12 +31,11 @@
 
 ### My credit cards: 
 ## 2202 2023 0048 8917 SberBank (MIR/МИР) 
-### ![MirPay](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/mir-pay.png)
-### ![Sber](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/sber.png)
+### ![MirPay](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/mir-pay.png) ![Sber]((https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/sber.png))
 
 ## 5536 9138 6269 7741 TINKOFF (MasterCard)
-### ![TINKOFF](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff.png)
-### ![TINKOFF-QR](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff-qr.png)
+### ![TINKOFF](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff.png) ![TINKOFF-QR](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff-qr.png)
+
 ## My statistics:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenOrtiz&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
