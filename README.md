@@ -3,7 +3,7 @@
 ## Hello, my friend 🤗. 
 
 ## My name is ORTIZ (Nikita) from Russia. I'm a beginner web developer. Started doing web development in 2021. But the main activity started in 2022.
-#
+
 
 ### My languages and Tools:
 
@@ -13,7 +13,7 @@
 ![JS](https://img.shields.io/badge/javascript-4F4F4F?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-4F4F4F?style=for-the-badge&logo=mysql)
 
-#
+
 
 ### Follow me:
 
@@ -21,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-4F4F4F?style=for-the-badge&logo=telegram&logoColor=567BAE)](https://t.me/aiden_ortiz)
 [![GitHub](https://img.shields.io/badge/Github-4F4F4F?style=for-the-badge&logo=github&logoColor=)](https://github.com/AidenOrtiz)
 
-#
+
 
 ### You can support me on:
 
@@ -32,7 +32,7 @@
 ## 2202 2023 0048 8917 SberBank (MIR/МИР)
 
 ## 5536 9138 6269 7741 TINKOFF (MasterCard)
-#
+
 
 
 
