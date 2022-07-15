@@ -29,11 +29,11 @@
 [![Boosty](https://img.shields.io/badge/Boosty-4F4F4F?style=for-the-badge&logo=boost&logoColor=)](https://boosty.to/ortiz)
 [![DonationAlerts](https://img.shields.io/badge/DonationAlerts-4F4F4F?style=for-the-badge&logo=donate&logoColor=)](https://www.donationalerts.com/r/aidenortiz)
 
-### My credit cards: 
-## 2202 2023 0048 8917 SberBank (MIR/МИР) 
+## My credit cards: 
+### 2202 2023 0048 8917 SberBank (MIR/МИР) 
 ![MirPay](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/mir-pay.png) ![Sber](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/sber.png)
 
-## 5536 9138 6269 7741 TINKOFF (MasterCard)
+### 5536 9138 6269 7741 TINKOFF (MasterCard)
 ![TINKOFF](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff.png) ![TINKOFF-QR](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/tinkoff-qr.png)
 
 ## My statistics:
