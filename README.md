@@ -27,6 +27,7 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-4F4F4F?style=for-the-badge&logo=paypal&logoColor=)](https://www.paypal.com/paypalme/AidenOrtiz944)
 [![Boosty](https://img.shields.io/badge/Boosty-4F4F4F?style=for-the-badge&logo=boost&logoColor=)](https://boosty.to/ortiz)
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-4F4F4F?style=for-the-badge&logo=donate&logoColor=)](https://www.donationalerts.com/r/aidenortiz)
 
 ### My credit cards: 
 ## 2202 2023 0048 8917 SberBank (MIR/МИР) 
