@@ -1,4 +1,4 @@
-![Header](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/ortiz-git.png)
+![Header](https://github.com/AidenOrtiz/AidenOrtiz/blob/main/assets/ortiz-header.png)
 
 ### Hello, my friend 🤗. 
 
