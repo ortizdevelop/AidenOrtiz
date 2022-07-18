@@ -17,7 +17,7 @@
 
 ### Follow me:
 
-[![Vkontakte](https://img.shields.io/badge/VKONTAKTE-4F4F4F?style=for-the-badge&logo=VK&logoColor=567BAE)](https://vk.com/undisputed.ortiz)
+[![Vkontakte](https://img.shields.io/badge/VKONTAKTE-4F4F4F?style=for-the-badge&logo=VK&logoColor=567BAE)](https://vk.com/ortizdevelop)
 [![Telegram](https://img.shields.io/badge/Telegram-4F4F4F?style=for-the-badge&logo=telegram&logoColor=567BAE)](https://t.me/aiden_ortiz)
 [![GitHub](https://img.shields.io/badge/Github-4F4F4F?style=for-the-badge&logo=github&logoColor=)](https://github.com/AidenOrtiz)
 
